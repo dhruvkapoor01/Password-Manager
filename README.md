@@ -4,7 +4,9 @@
 
 In the project directory, you can run:
 
-### `npm run dev`
+1. On the upper right you will see - ### '<code>'. Click on that
+2. Open ### 'codespaces'
+3. In the terminal write ### 'npm run dev'
+4. A new tab will open. 
 
-Runs the app in the development mode.
-Open [http://localhost:5172](http://localhost:5172) to view it in the browser.
+
